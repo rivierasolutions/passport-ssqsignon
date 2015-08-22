@@ -1,7 +1,7 @@
 {
-  "name": "passport-http-bearer",
-  "version": "1.0.1",
-  "description": "HTTP Bearer authentication strategy for Passport.",
+  "name": "passport-ssqsignon",
+  "version": "1.0.0",
+  "description": "ssqsignon.com authentication strategy for Passport.",
   "keywords": [
     "passport",
     "auth",
@@ -9,22 +9,22 @@
     "authentication",
     "authz",
     "authorization",
-    "http",
-    "bearer",
-    "token",
+    "ssq",
+    "signon",
+    "ssqsignon.com",
     "oauth"
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/jaredhanson/passport-http-bearer.git"
+    "url": "git://github.com/rivierasolutions/passport-ssqsignon"
   },
   "bugs": {
-    "url": "http://github.com/jaredhanson/passport-http-bearer/issues"
+    "url": "https://github.com/rivierasolutions/passport-ssqsignon/issues"
   },
   "author": {
-    "name": "Jared Hanson",
-    "email": "jaredhanson@gmail.com",
-    "url": "http://www.jaredhanson.net/"
+    "name": "Piotr Wójcik",
+    "email": "piotr.wojcik@rivierasolutions.pl",
+    "url": "http://rivierasolutions.pl"
   },
   "licenses": [
     {
