@@ -1,6 +1,6 @@
 {
   "name": "passport-ssqsignon",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "ssqsignon.com authentication strategy for Passport.",
   "keywords": [
     "passport",
